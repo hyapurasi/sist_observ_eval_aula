@@ -2,6 +2,6 @@
 	<head>
 	</head>
 	<body>
-		HOLA
+		Allillanchu Qhawaq Irqi!
 	</body>
 </html>
