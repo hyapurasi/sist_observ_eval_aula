@@ -1,3 +1,6 @@
+Sistema de Información "Qhawaq Irqi" 'Niño Observador'
+======================================================
+
 Dirección de la página web
 ==========================
 http://qhawaq.hinantin.com/
