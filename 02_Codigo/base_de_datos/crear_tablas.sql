@@ -10,8 +10,8 @@ CREATE DATABASE `bdQhawaqIrqi`
 DROP TABLE IF EXISTS `TBiblioTecaVirtual`;
 CREATE TABLE `TBiblioTecaVirtual` (
 	`ID` INT(11) NOT NULL AUTO_INCREMENT,
-	`Code` VARCHAR(50) NOT NULL DEFAULT '0' COLLATE 'utf8_general_ci',
-	`Description` VARCHAR(1000) NULL DEFAULT NULL COLLATE 'utf8_general_ci',
+	`Codigo` VARCHAR(50) NOT NULL DEFAULT '0' COLLATE 'utf8_general_ci',
+	`Descripcion` VARCHAR(1000) NULL DEFAULT NULL COLLATE 'utf8_general_ci',
 	PRIMARY KEY (`ID`)
 )
 COLLATE='utf8_general_ci'
