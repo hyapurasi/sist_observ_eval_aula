@@ -1,0 +1,2 @@
+-- Creando tablas
+-- Base de datos: bdQhawaqIrqi (Niño Observador)
